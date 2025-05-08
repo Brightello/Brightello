@@ -1,59 +1,61 @@
-# Hi there, I'm Brait Podhornyi 👋
+# 👋 Hi, I'm **Brait Podhornyi**  
+### 🚀 Software Engineer | Web Dev Enthusiast | Problem Solver
 
-I'm a passionate and motivated **Software Engineer** based in Katowice, Poland, with a solid foundation in web development and a keen interest in building scalable, responsive, and user-focused web applications.
+I'm a dedicated and detail-oriented **Software Engineer** based in Katowice, Poland, with a deep passion for building clean, scalable, and high-performance web applications. I bring a blend of creative thinking and solid engineering principles to every project I touch. Whether it's implementing complex features, writing clean tests, or collaborating across teams—I'm here to **build great software that actually solves real problems**.
 
-🌱 **Currently:**  
-Working as a **Software Engineer at IMG ARENA**, contributing to complex features, mentoring juniors, and engaging in architectural decision-making processes.
-
-🎓 **Education:**  
-- MSc in Cloud Computing (in progress) – WSB Academy, Tychy  
-- BSc in Software Engineering – WSB Academy, Cieszyn
+I thrive in **agile teams**, love clean UI/UX, and enjoy tackling challenges that push my limits.
 
 ---
 
 ## 🛠️ Tech Stack
 
 **Languages & Frameworks**  
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)  
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)  
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+</p>
 
 **Styling & UI**  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)  
-![TailwindCSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)  
-![Material UI](https://img.shields.io/badge/-MUI-007FFF?style=flat-square&logo=mui&logoColor=white)  
-![Styled Components](https://img.shields.io/badge/-Styled--Components-DB7093?style=flat-square&logo=styled-components&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
+</p>
 
-**Tools & Testing**  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)  
-![CI/CD](https://img.shields.io/badge/-CI%2FCD-blue?style=flat-square&logo=githubactions&logoColor=white)  
-![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)  
-![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+**Testing & Tools**  
+<p>
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI/CD-blue?style=for-the-badge&logo=githubactions&logoColor=white" />
+</p>
 
-**Design & Management**  
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)  
-![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)  
-![Confluence](https://img.shields.io/badge/-Confluence-172B4D?style=flat-square&logo=confluence)
-
----
-
-## 🌍 Languages
-- Polish 🇵🇱 (C2)  
-- English 🇬🇧 (C1)  
-- Ukrainian 🇺🇦 (C2)  
-- Russian 🇷🇺 (C2)
+**Design & Agile**  
+<p>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence" />
+</p>
 
 ---
 
-## 📫 Reach Me
-- 📧 [brait.podhornyi@gmail.com](mailto:brait.podhornyi@gmail.com)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/brait-podhornyi-070044242/)  
-- 💻 [GitHub](https://github.com/Brightello)
+## 🌍 Languages I Speak
+
+**Polish 🇵🇱 | English 🇬🇧 | Ukrainian 🇺🇦 | Russian 🇷🇺**
 
 ---
 
-🧠 I thrive in agile environments, enjoy collaborating across teams, and continuously seek opportunities to improve code quality and project outcomes. Whether it’s enhancing legacy systems or building new features from the ground up, I bring curiosity, commitment, and creativity to every task.
+## 📫 Let's Connect
 
-Let's connect and build something awesome together!
+- 📧 **Email:** [brait.podhornyi@gmail.com](mailto:brait.podhornyi@gmail.com)  
+- 🔗 **LinkedIn:** [linkedin.com/in/brait-podhornyi-070044242](https://www.linkedin.com/in/brait-podhornyi-070044242/)  
+- 💻 **GitHub:** [github.com/Brightello](https://github.com/Brightello)
+
+---
+
+> 💡 *“Great software is built through thoughtful collaboration, relentless iteration, and the courage to solve real-world problems—one commit at a time.”*  
+> — Brait Podhornyi
