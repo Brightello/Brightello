@@ -1,4 +1,8 @@
 # 👋 Hi, I'm **Brait Podhornyi**  
+<div align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2FpMWF3dGdmbmE2ZHYzem8zMW1ieWd4N3l4eHZraGN5dDB2YWM5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" />
+</div>
+
 ### 🚀 Software Engineer | Web Dev Enthusiast | Problem Solver
 
 I'm a dedicated and detail-oriented **Software Engineer** based in Katowice, Poland, with a deep passion for building clean, scalable, and high-performance web applications. I bring a blend of creative thinking and solid engineering principles to every project I touch. Whether it's implementing complex features, writing clean tests, or collaborating across teams—I'm here to **build great software that actually solves real problems**.
