@@ -50,7 +50,12 @@ I thrive in agile teams where collaboration meets curiosity. I’m passionate ab
 
 ## 🌍 Languages I Speak
 
-**Polish 🇵🇱 | English 🇬🇧 | Ukrainian 🇺🇦 | Russian 🇷🇺**
+<div justify-content="center">
+  <img src="https://flagcdn.com/w40/pl.png" width="24"> Polish &nbsp;&nbsp;&nbsp;
+  <img src="https://flagcdn.com/w40/gb.png" width="24"> English &nbsp;&nbsp;&nbsp;
+  <img src="https://flagcdn.com/w40/ua.png" width="24"> Ukrainian &nbsp;&nbsp;&nbsp;
+  <img src="https://flagcdn.com/w40/ru.png" width="24"> Russian
+</div>
 
 ---
 
