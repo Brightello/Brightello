@@ -3,7 +3,7 @@
 
 I'm a dedicated and detail-oriented **Software Engineer** based in Katowice, Poland, with a deep passion for building clean, scalable, and high-performance web applications. I bring a blend of creative thinking and solid engineering principles to every project I touch. Whether it's implementing complex features, writing clean tests, or collaborating across teams—I'm here to **build great software that actually solves real problems**.
 
-I thrive in **agile teams**, love clean UI/UX, and enjoy tackling challenges that push my limits.
+I thrive in agile teams where collaboration meets curiosity. I’m passionate about crafting intuitive user experiences, writing clean and scalable code, and solving real problems through thoughtful design. Every challenge is a chance to learn something new, push creative boundaries, and build software that feels as good as it works.
 
 ---
 
