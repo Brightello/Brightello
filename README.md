@@ -13,7 +13,7 @@ I thrive in agile teams where collaboration meets curiosity. I’m passionate ab
 
 ## 🛠️ Tech Stack
 
-**Languages & Frameworks**  
+**Programming Languages & Frameworks**  
 <p>
   <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -37,6 +37,7 @@ I thrive in agile teams where collaboration meets curiosity. I’m passionate ab
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/CI/CD-blue?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=FFD62E" />
 </p>
 
 **Design & Agile**  
@@ -48,14 +49,17 @@ I thrive in agile teams where collaboration meets curiosity. I’m passionate ab
 
 ---
 
-## 🌍 Languages I Speak
+## 🖼️ My Projects
+### 📌 **[Image Gallery](https://github.com/Brightello/image-gallery-app)**
 
-<div justify-content="center">
-  <img src="https://flagcdn.com/w40/pl.png" width="24"> Polish &nbsp;&nbsp;&nbsp;
-  <img src="https://flagcdn.com/w40/gb.png" width="24"> English &nbsp;&nbsp;&nbsp;
-  <img src="https://flagcdn.com/w40/ua.png" width="24"> Ukrainian &nbsp;&nbsp;&nbsp;
-  <img src="https://flagcdn.com/w40/ru.png" width="24"> Russian
-</div>
+A modern, Pinterest-inspired image gallery created as part of a student project to explore real-world web application development. This app showcases a dynamic masonry-style layout, responsive design, and seamless user interactions like infinite scroll and hover effects. It was built to practice component-based architecture, smooth UI/UX transitions, and Firebase integration for real-time data handling.
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=FFD62E" />
+  <img src="https://img.shields.io/badge/Chakra%20UI-319795?style=for-the-badge&logo=chakraui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+</p>
 
 ---
 
