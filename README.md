@@ -59,4 +59,3 @@ I thrive in agile teams where collaboration meets curiosity. I’m passionate ab
 ---
 
 > 💡 *“Great software is built through thoughtful collaboration, relentless iteration, and the courage to solve real-world problems—one commit at a time.”*  
-> — Brait Podhornyi
