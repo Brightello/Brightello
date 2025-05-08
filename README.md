@@ -14,6 +14,7 @@ I thrive in agile teams where collaboration meets curiosity. I’m passionate ab
   <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 </p>
 
 **Styling & UI**  
